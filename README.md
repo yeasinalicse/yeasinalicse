@@ -1,9 +1,8 @@
 Hey there 👋, I am Yeasin Ali
 
-🎯 Currenty working on Apps development
-
-👯‍♂️ I am looking to collaborate with other developers 
-
+🎯 Currenty working on Apps development <br />
+🌱 I’m currently learning TensorFlow ,flutter and Android <br />
+👯‍♂️ I am looking to collaborate with other developers <br />
 ☕ I love coffee
 <!--
 **yeasinalicse/yeasinalicse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
