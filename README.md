@@ -1,7 +1,8 @@
 Hey there 👋, I am Yeasin Ali
 
-👯‍♂️ I am looking to collaborate with other developers /n
-☕ I love coffee
+-👯‍♂️ I am looking to collaborate with other developers 
+-☕ I love coffee
+-Tools ⚙
 <!--
 **yeasinalicse/yeasinalicse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
