@@ -1,5 +1,7 @@
 Hey there 👋, I am Yeasin Ali
 
+🎯 Currenty working on Apps development
+
 👯‍♂️ I am looking to collaborate with other developers 
 
 ☕ I love coffee
