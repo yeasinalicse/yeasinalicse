@@ -4,7 +4,7 @@
   <img 
     src="https://raw.githubusercontent.com/yeasinalicse/yeasinalicse/main/profile_image.png" 
     alt="Yeasin Ali" 
-    width="220"
+    width="400"
   />
 </p>
 
