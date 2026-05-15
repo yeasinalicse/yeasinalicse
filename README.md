@@ -1,20 +1,40 @@
-Hey there 👋, I am Yeasin Ali
+<h1 align="center">Hi 👋, I'm Yeasin Ali</h1>
 
-🎯 Currenty working on Apps development <br />
-🌱 I’m currently learning TensorFlow ,flutter and Android <br />
-👯‍♂️ I am looking to collaborate with other developers <br />
-☕ I love coffee
-<!--
-**yeasinalicse/yeasinalicse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/yeasinalicse/yeasinalicse/main/profile_image.png" 
+    alt="Yeasin Ali" 
+    width="220"
+  />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Senior Android Developer from Bangladesh 🇧🇩
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 📱 Android Developer with 7+ years of experience  
+- 🚀 Skilled in Java, Kotlin, Dart, Android SDK, KMP, CMP, SQLite & REST APIs  
+- 🌱 Currently learning Flutter & TensorFlow  
+- 🏥 Working on healthcare and large-scale mobile applications  
+- 👯 Looking to collaborate with other developers  
+- ☕ Coffee keeps me productive  
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Kotlin, Dart  
+- **Mobile:** Android SDK, Jetpack Components, Flutter, KMP, CMP  
+- **Database:** SQLite, Room  
+- **Architecture:** MVVM, Clean Architecture  
+- **Tools:** Git, Firebase, Retrofit  
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/yeasinalicse
